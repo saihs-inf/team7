@@ -26,7 +26,12 @@ Slack 是一套團體之間的「溝通平台」，與大家常用的 LINE 聊�
 
 比如說 WhatsApp, LINE, FB Messenger......等。
 
+##FB
+
+FB是一個社交網站,裡面的小遊戲可以用來打發在等朋友上的時間,也可以隨時上網打卡分享自己的心情。
+
 ## Trello
+
 
 ![Trello](http://i.imgur.com/IWE5zoA.png)
 
